@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MechGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\enzom\OneDrive\Dokumente\Unreal Projects\UntitledMechGame\MechGame\Intermediate\Build\Win64\x64\MechGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\enzom\OneDrive\Dokumente\Unreal Projects\UntitledMechGame\MechGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MechGame\MechGame.init.gen.cpp.obj"
+"C:\Users\enzom\OneDrive\Dokumente\Unreal Projects\UntitledMechGame\MechGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MechGame\MechGameGameModeBase.gen.cpp.obj"
+"C:\Users\enzom\OneDrive\Dokumente\Unreal Projects\UntitledMechGame\MechGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MechGame\MechGame.cpp.obj"
+"C:\Users\enzom\OneDrive\Dokumente\Unreal Projects\UntitledMechGame\MechGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MechGame\MechGameGameModeBase.cpp.obj"
+"C:\Users\enzom\OneDrive\Dokumente\Unreal Projects\UntitledMechGame\MechGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MechGame\Default.rc2.res"
+/OUT:"C:\Users\enzom\OneDrive\Dokumente\Unreal Projects\UntitledMechGame\MechGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MechGame\UnrealEditor-MechGame.lib"
